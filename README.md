@@ -30,9 +30,9 @@ The goal is to transform large-scale public data into actionable insights and pr
 ---
 
 ## 📂 Project Structure  
-queries/ → SQL queries for data cleaning, validation, analysis, predictive modelling
-Joined_table_dataset/ → Sample dataset (cleaned data) for analysis
-adi_model_dataset/ → Sample dataset for machine learning / predictions
+- queries/ → SQL queries for data cleaning, validation, analysis, predictive modelling
+- Joined_table_dataset/ → Sample dataset (cleaned data) for analysis
+- adi_model_dataset/ → Sample dataset for machine learning / predictions
 
 
 ---
@@ -59,9 +59,9 @@ Significant disparities exist within states, meaning county-level averages can h
 ## 📊 Data Visualisation  
 
 Results were visualised using Looker Studio:
-- Top 10 states with highest inequality  
-- Within-state variation  
-- Geographic distribution (Geo map)
+- Geographic distribution of DEprivation Gaps(Geo Map)  
+- Within-state Deprivation variation  
+- Top 10 U.S. States with Highest Deprivation Gap
   ## 📊 Project Visualisations  
 
 ### 🌍 Geographic Distribution of Deprivation Gaps  
